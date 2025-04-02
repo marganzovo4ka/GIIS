@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b65ccb95-dc19-4f18-9abb-db4598d330c4)# Графический редактор
+# Графический редактор
 
 ## Лабораторная работа №1
 
@@ -27,7 +27,7 @@ Digital Differential Analyzer (цифровой дифференциальный
 
 ### Интерфейс
 
-![image](https://github.com/user-attachments/assets/490ea6eb-94a8-44ea-a21d-0156e344a2e1)
+![image](https://github.com/user-attachments/assets/6ff7b66c-a4cd-45a6-9ffc-b1ea6a9f01e0)
 
 ### Технологии
 Python\
