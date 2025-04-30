@@ -27,6 +27,8 @@ Digital Differential Analyzer (цифровой дифференциальный
 
 ### Интерфейс
 
+![image](https://github.com/user-attachments/assets/6ff7b66c-a4cd-45a6-9ffc-b1ea6a9f01e0)
+
 ### Технологии
 Python\
 Tkinter
